@@ -21,7 +21,13 @@ AI-powered tool that extracts **key skills, job titles, and contact details** fr
 ![AI Resume Parser Demo](https://your-image-link.png)
 <img width="1380" alt="Screenshot 2025-03-16 at 10 47 32 PM" src="https://github.com/user-attachments/assets/098c5378-26d4-4285-bb4c-27bccbb5ab8d" />
 
+<img width="1353" alt="Screenshot 2025-03-16 at 10 49 17 PM" src="https://github.com/user-attachments/assets/23d4d3c7-7fd3-4d6d-8528-5691a4c188b6" />
 
+<img width="1495" alt="Screenshot 2025-03-16 at 10 49 50 PM" src="https://github.com/user-attachments/assets/3223eccc-34be-4809-9e84-28339567b8e0" />
+
+<img width="1476" alt="Screenshot 2025-03-16 at 10 50 14 PM" src="https://github.com/user-attachments/assets/a34be1b9-5f26-404f-b63d-acd6a918a414" />
+
+<img width="1275" alt="Screenshot 2025-03-16 at 10 50 23 PM" src="https://github.com/user-attachments/assets/7067a2a5-19e0-45c4-bdc5-1791eed05c17" />
 
 
 ---
