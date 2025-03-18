@@ -2,11 +2,11 @@
 
 AI-powered tool that extracts **key skills, job titles, and contact details** from resumes and **matches job listings** based on skills, experience, and location.
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/your-repo?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/your-repo)
-![GitHub License](https://img.shields.io/github/license/yourusername/your-repo)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/yourusername/your-repo)
+![GitHub Repo Stars](https://img.shields.io/github/stars/aryanpuranik/Resume-Parser-and-Job-Matcher?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/aryanpuranik/Resume-Parser-and-Job-Matcher?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/aryanpuranik/Resume-Parser-and-Job-Matcher)
+![GitHub License](https://img.shields.io/github/license/aryanpuranik/Resume-Parser-and-Job-Matcher)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/aryanpuranik/Resume-Parser-and-Job-Matcher)
 
 ---
 
