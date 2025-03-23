@@ -35,10 +35,15 @@ AI-powered tool that extracts **key skills, job titles, and contact details** fr
 
 ---
 
-## 🛠️ Tech Stack  
-- 🐍 **Python**  
-- 🤖 **Anthropic Claude API** (AI-powered resume insights)  
-- 📄 **Streamlit** (Frontend UI)  
+## 🛠️ Tech Stack
+
+-  **Python** – Core programming language
+-  **pdfminer.six** – For extracting text from uploaded PDF resumes
+-  **Claude Haiku (Anthropic API)** – Used for:
+  - Summarizing resumes
+  - Suggesting improvements
+  - Extracting structured info with LLM
+- 🖥️ **Streamlit** – For building the frontend web interface
 
 ---
 
