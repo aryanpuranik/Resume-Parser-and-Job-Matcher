@@ -10,6 +10,13 @@ AI-powered tool that extracts **key skills, job titles, and contact details** fr
 
 ---
 
+[![Database](https://img.shields.io/badge/LLM-Claude%20Haiku-4b0082?style=for-the-badge)](https://www.anthropic.com/index/claude)
+[![Frontend](https://img.shields.io/badge/Frontend-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)](https://streamlit.io)
+[![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Project](https://img.shields.io/badge/Project-AI%20NLP-grey?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)]()
+
+
 ## 🌟 Features  
 ✅ **Extracts Resume Data**: Key skills, job titles, and contact details  
 ✅ **AI-powered Resume Summary & Improvement Suggestions** (Claude AI)  
