@@ -20,8 +20,7 @@ AI-powered tool that extracts **key skills, job titles, and contact details** fr
 ✅ **Ranks Jobs Based on Resume Match**  
 ✅ **Supports Multiple Locations**  
 
-📸 **Demo Screenshot**  
-![AI Resume Parser Demo](https://your-image-link.png)
+📸 **Demo Screenshots**  
 
 <img width="1380" alt="Screenshot 2025-03-16 at 10 47 32 PM" src="https://github.com/user-attachments/assets/098c5378-26d4-4285-bb4c-27bccbb5ab8d" />
 
