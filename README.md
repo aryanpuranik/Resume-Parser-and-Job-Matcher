@@ -1,7 +1,7 @@
 # 📄 AI Resume Parser & Job Matcher 🚀  
 
 Smart Resume Match is an AI-powered application that helps streamline the job search process by analyzing a user’s resume to extract key information such as skills, job titles, and location.
-It then scrapes relevant job listings from LinkedIn based on the extracted data and ranks them using a combination of keyword matching and AI-based similarity scoring.
+It then finds relevant job listings from LinkedIn based on the extracted data and ranks them using a combination of keyword matching and AI-based similarity scoring.
 The goal is to assist users in discovering job opportunities that align closely with their background and experience — all in a single, easy-to-use interface.
 
 
