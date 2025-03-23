@@ -40,9 +40,9 @@ AI-powered tool that extracts **key skills, job titles, and contact details** fr
 -  **Python** – Core programming language
 -  **pdfminer.six** – For extracting text from uploaded PDF resumes
 -  **Claude Haiku (Anthropic API)** – Used for:
-  - Summarizing resumes
-  - Suggesting improvements
-  - Extracting structured info with LLM
+    - Summarizing resumes
+    - Suggesting improvements
+    - Extracting structured info with LLM
 - 🖥️ **Streamlit** – For building the frontend web interface
 
 ---
