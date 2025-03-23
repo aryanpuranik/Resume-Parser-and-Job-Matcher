@@ -2,19 +2,15 @@
 
 AI-powered tool that extracts **key skills, job titles, and contact details** from resumes and **matches job listings** based on skills, experience, and location.
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/aryanpuranik/Resume-Parser-and-Job-Matcher?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/aryanpuranik/Resume-Parser-and-Job-Matcher?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/aryanpuranik/Resume-Parser-and-Job-Matcher)
-![GitHub License](https://img.shields.io/github/license/aryanpuranik/Resume-Parser-and-Job-Matcher)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/aryanpuranik/Resume-Parser-and-Job-Matcher)
-
----
 
 [![Database](https://img.shields.io/badge/LLM-Claude%20Haiku-4b0082?style=for-the-badge)](https://www.anthropic.com/index/claude)
 [![Frontend](https://img.shields.io/badge/Frontend-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Project](https://img.shields.io/badge/Project-AI%20NLP-grey?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
+
+
+---
 
 
 ## 🌟 Features  
