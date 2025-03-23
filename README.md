@@ -43,18 +43,9 @@ AI-powered tool that extracts **key skills, job titles, and contact details** fr
 
 Run the following commands in your terminal to **set up and run the application**:  
 
-```bash
-# Clone the Repository
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-
-## 🚀 Installation & Setup  
-
-# Install Dependencies
-pip install -r requirements.txt
 
 # Set Up API Key (Ensure you replace 'your-api-key-here' with your actual key)
 export ANTHROPIC_API_KEY="your-api-key-here"
 
 # Run the Application
-streamlit run app.py
+streamlit run Smart\ Resume\ Match.py
